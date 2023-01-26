@@ -22,6 +22,7 @@ Use len to count number of words.
 ## PROGRAM:
 
 ### OUTPUT:
+![21](https://user-images.githubusercontent.com/119560261/214896312-1a3abab7-d7bf-4798-9cc0-d0019d8d2a1f.png)
 
 
 
