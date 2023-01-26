@@ -7,11 +7,13 @@ Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
 
+
 ### Step 2: 
  
 ### Step 3: 
 
 ### Step 4:  
+Use len to count number of words.
 
 ### Step 5: 
 
